@@ -6,6 +6,7 @@ This project presents a comprehensive database solution for managing key operati
 
 
 **Key Features**
+
 Menu & Order Management: Real-time tracking of orders and dynamic menu item availability.
 
 Inventory Control: Monitoring stock levels, reorder alerts, and supplier management.
