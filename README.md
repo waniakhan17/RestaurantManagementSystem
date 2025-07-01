@@ -1,6 +1,8 @@
 Restaurant Management System
+
 Overview
 This project presents a comprehensive database solution for managing key operations within a restaurant, including menu and order processing, inventory control, and customer interactions. It emphasizes practical database design and implementation, tackling challenges such as data integrity, concurrent access, and security.
+
 
 Key Features
 Menu & Order Management: Real-time tracking of orders and dynamic menu item availability.
@@ -8,6 +10,7 @@ Inventory Control: Monitoring stock levels, reorder alerts, and supplier managem
 Customer & Reservation Management: Support for loyalty programs, table bookings, and various order types.
 Staff & Table Management: Efficient scheduling, role-based permissions, and optimized seating arrangements.
 Financial Automation: Automated calculation of daily sales, costs, and profits.
+
 
 Problem Statements Addressed
 The system directly addresses:
